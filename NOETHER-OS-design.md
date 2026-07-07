@@ -2,7 +2,7 @@
 
 ### An operating system whose security properties are *theorems, not features*
 
-> **Codename:** NOETHER — after Emmy Noether, whose theorem ties symmetries to *conserved quantities*. The organizing idea of this OS is that its security properties are **invariants conserved across every state transition**. Rename it to anything you like; the architecture is yours.
+> **Codename:** NOETHER — after Emmy Noether, whose theorem ties symmetries to *conserved quantities*. The organizing idea of this OS is that its security properties are **invariants conserved across every state transition**.
 
 ---
 
