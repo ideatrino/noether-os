@@ -103,4 +103,4 @@ Built on the ideas and tooling of the **seL4** verified microkernel and its
 All original work in this repository is released under the license in `LICENSE`.
 
 *This is an independent educational/research project and is not affiliated with or
-endorsed by the seL4 Foundation, Anthropic, or any other organization.*
+endorsed by the seL4 Foundation, or any other organization.*
